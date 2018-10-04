@@ -1,5 +1,5 @@
 var nodes = [
-  {id: 1, label: 'Abaddon', title: 'Abbadon', value: 1, group: 1, image:'abaddon.png', shape: 'image'},
+  {id: 1, label: 'Abaddon', title: 'Abbadon', value: 1, group: 1},
   {id: 2, label: 'Alchemist', title: 'Alchemist', value: 1, group: 1},
   {id: 3, label: 'Ancient Apparition', title: 'Ancient Apparition', value: 1, group: 3 },
   {id: 4, label: 'Anti-Mage', title: 'Anti-Mage', value: 1, group: 2 },
